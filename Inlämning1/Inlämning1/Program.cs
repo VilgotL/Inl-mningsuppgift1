@@ -8,6 +8,7 @@ namespace Inlämning1
         {
             Console.WriteLine("Hello World!");
             Console.Write("hello");
+            Console.WriteLine("Hej");
         }
     }
 }
